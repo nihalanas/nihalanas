@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nihal Anas</h1>
 <h3 align="center">AI Engineer</h3>
-- 🌱 I’m currently learning **Automation with AI Agents**
 
+- 🌱 I’m passionate about leveraging upcoming technologies to build tools that eases pain points.
 - 💬 Ask me about **AI or cutting edge tech.**
-
 - 📫 How to reach me **nihalanas2311@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
