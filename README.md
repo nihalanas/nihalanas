@@ -9,11 +9,11 @@ Currenly working as the AI Engineer at [Renie](https://renie.io), addressing exi
 
 ## Tech Stack
 
-- **Languages:** Python, SQL.
-- **AI/ML:** LLM's, Computer Vision, NLP, Data Analytics.
-- **Agentic frameworks:** Langchain, CrewAI.
-- **Cloud:** AWS.
-- **Other tools:** Git.
+- **Languages -** Python, SQL.
+- **AI/ML -** LLM's, Computer Vision, NLP, Data Analytics.
+- **Agentic frameworks -** Langchain, CrewAI.
+- **Cloud -** AWS.
+- **Other tools -** Git.
 
 ## Connect With Me
 
