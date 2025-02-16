@@ -3,7 +3,7 @@
 
 - 💬 I’m passionate about leveraging upcoming technologies to build tools that eases pain points.
 
-## Current Role
+## 📌 Current Role
 
 Currenly working as the AI Engineer at [Renie](https://renie.io), addressing existing challenges with the help of AI. 
 
