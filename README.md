@@ -12,6 +12,7 @@ Currenly working as the AI Engineer at [Renie](https://renie.io), addressing exi
 - **Languages -** Python, SQL.
 - **AI/ML -** LLM, Computer Vision, NLP, Data Analytics.
 - **Agentic frameworks -** Langchain, CrewAI.
+- **Databases -** PostgreSQL, MongoDB.
 - **Cloud -** AWS.
 - **Other tools -** Git.
 
