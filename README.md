@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nihal Anas</h1>
-<h3 align="center">AI Engineer</h3>
+<h3 align="center">AI Lead</h3>
 
 - 💬 I’m passionate about leveraging latest technologies to build tools that eases pain points.
 
 ## 📌 Current Role
 
-Currenly working as the AI Engineer at [Renie](https://renie.io), addressing existing challenges with the help of AI. 
+Currenly working as the Chief AI Officer at [Ilmora](https://ilmoraai.com), bringing to life the power of agentic AI. 
 
 ## 💻 Tech Stack
 
