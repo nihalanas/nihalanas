@@ -5,7 +5,7 @@
 
 ## 📌 Current Role
 
-Currenly working as the Chief AI Officer at [Ilmora](https://ilmoraai.com), bringing to life the power of agentic AI. 
+Currenly working as the Chief AI Officer at Elyst AI.
 
 ## 💻 Tech Stack
 
