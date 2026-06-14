@@ -11,9 +11,9 @@ Chief AI Officer at [Elyst AI](https://elystai.com), leading applied AI and taki
 ## 🛠 Tech Stack
 
 - **Languages:** Python, SQL, TypeScript
-- **Frameworks:** FastAPI, Flask, Streamlit, Chainlit, Gradio, Next.js, React, Tailwind CSS, Framer Motion
+- **Frameworks:** FastAPI, Next.js, React
 - **Agentic AI:** Vercel AI SDK, CrewAI, LangChain, LlamaIndex, Claude Agent SDK
-- **ML & Vision:** PyTorch, scikit-learn, OpenCV, MediaPipe
+- **ML & Vision:** PyTorch, OpenCV, MediaPipe
 - **Cloud & Infra:** AWS, Google Cloud, Vercel
 
 ## 📫 Connect
