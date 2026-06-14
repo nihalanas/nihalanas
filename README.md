@@ -24,4 +24,4 @@ Chief AI Officer at [Elyst AI](https://elystai.com), leading applied AI and taki
 
 ## 📊 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nihalanas&theme=github-compact&hide_border=true&area=true" alt="Nihal's contribution graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nihalanas&theme=tokyonight" alt="Nihal's GitHub profile summary" />
