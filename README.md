@@ -1,27 +1,27 @@
-<h1 align="center">Hi 👋, I'm Nihal Anas</h1>
-<h3 align="center">AI Lead</h3>
+# Hi, I'm Nihal Anas 👋
 
-- 💬 I’m passionate about leveraging latest technologies to build tools that eases pain points.
+**Chief AI Officer · AI Engineer · Agentic Systems**
 
-## 📌 Current Role
+I am passionate about AI, having worked across ML, Computer Vision, Applied AI, and Agentic AI, with a focus now on building autonomous agentic systems.
 
-Currenly working as the Chief AI Officer at Elyst AI.
+## 🚀 Current Role
 
-## 💻 Tech Stack
+Chief AI Officer at [Elyst AI](https://elystai.com), leading applied AI and taking agentic and LLM-powered products from research to production.
 
-- **Languages -** Python, SQL.
-- **AI/ML -** LLM, Computer Vision, NLP, Data Analytics.
-- **Agentic frameworks -** Langchain, CrewAI.
-- **Databases -** PostgreSQL, MongoDB.
-- **Cloud -** AWS.
-- **Other tools -** Git.
+## 🛠 Tech Stack
 
-## ✉️ Connect With Me
+- **Languages:** Python, SQL, TypeScript
+- **Frameworks:** FastAPI, Flask, Streamlit, Chainlit, Gradio, Next.js, React, Tailwind CSS, Framer Motion
+- **Agentic AI:** Vercel AI SDK, CrewAI, LangChain, LlamaIndex, Claude Agent SDK
+- **ML & Vision:** PyTorch, scikit-learn, OpenCV, MediaPipe
+- **Cloud & Infra:** AWS, Google Cloud, Vercel
 
-- Email: [nihalanas2311@gmail.com](mailto:nihalanas2311@gmail.com)
-- LinkedIn: [Nihal Anas](https://www.linkedin.com/in/nihalanas/)
-- GitHub: [@nihalanas](https://github.com/nihalanas)
+## 📫 Connect
 
-## 📊 GitHub Stats
+- **LinkedIn:** [Nihal Anas](https://www.linkedin.com/in/nihalanas/)
+- **Email:** [nihalanas2311@gmail.com](mailto:nihalanas2311@gmail.com)
+- **GitHub:** [@nihalanas](https://github.com/nihalanas)
 
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nihalanas&theme=github_dark)
+## 📊 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nihalanas&theme=github-compact&hide_border=true&area=true" alt="Nihal's contribution graph" />
